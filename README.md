@@ -10,6 +10,7 @@ o programa possui varios metodos de ordenaçao
 * Merge Sort
 * Heap Sort
 * Radix Sort
+
 O programa possui a opçao de criar arquivo onde o usuario tera apenas que escolher a quanti dade de numero que deseja,
 que o programa criara 3 arquivos (ordenado, invertido e aleatorio)
 quando selecionado o arquivo as opçoes para ordenaçao serao liberadas,
